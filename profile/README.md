@@ -1,9 +1,9 @@
-# firstmis repositories
+# first-ims repositories
 
 | Frontend | Backend |
 |----------|---------|
-| [fe-langschool](https://github.com/firstmis/fe-langschool) — Vue | [backend](https://github.com/firstmis/backend) — Go |
-| [frontend](https://github.com/firstmis/frontend) — Vue | [be-sections](https://github.com/firstmis/be-sections) — Go |
-| [ui-kit](https://github.com/firstmis/ui-kit) — Vue | [be-langschool](https://github.com/firstmis/be-langschool) — Go |
-| [parent-portal](https://github.com/firstmis/parent-portal) — TypeScript | [be-invoices](https://github.com/firstmis/be-invoices) — Go |
-| | [be-pkg](https://github.com/firstmis/be-pkg) — Go |
+| [ui-kit](https://github.com/firstmis/ui-kit) | [be-pkg](https://github.com/firstmis/be-pkg) |
+| [fe-langschool](https://github.com/firstmis/fe-langschool) | [backend](https://github.com/firstmis/backend) |
+| [frontend](https://github.com/firstmis/frontend) | [be-sections](https://github.com/firstmis/be-sections) |
+| [parent-portal](https://github.com/firstmis/parent-portal) | [be-langschool](https://github.com/firstmis/be-langschool) |
+| | [be-invoices](https://github.com/firstmis/be-invoices) |
