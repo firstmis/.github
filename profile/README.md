@@ -1,12 +1,9 @@
-## Hi there 👋
+# firstmis repositories
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Frontend | Backend |
+|----------|---------|
+| [fe-langschool](https://github.com/firstmis/fe-langschool) — Vue | [backend](https://github.com/firstmis/backend) — Go |
+| [frontend](https://github.com/firstmis/frontend) — Vue | [be-sections](https://github.com/firstmis/be-sections) — Go |
+| [ui-kit](https://github.com/firstmis/ui-kit) — Vue | [be-langschool](https://github.com/firstmis/be-langschool) — Go |
+| [parent-portal](https://github.com/firstmis/parent-portal) — TypeScript | [be-invoices](https://github.com/firstmis/be-invoices) — Go |
+| | [be-pkg](https://github.com/firstmis/be-pkg) — Go |
